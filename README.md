@@ -4,7 +4,7 @@ If you have to move IOT Device you need to connect to new WIFI
 
 1. Open up Chrome web browser and go to [https://www.particle.io/](https://www.particle.io/)
 1. Login 
-1. Go to [https://docs.particle.io/quickstart/photon/](https://docs.particle.io/quickstart/photon/)_
+1. Go to [https://docs.particle.io/quickstart/photon/](https://docs.particle.io/quickstart/photon/)
 1. Click SETUP YOUR PHOTON button
 1. Click PHOTON P/SERIES
    1. Plug-in wall power (sometimes computer power fluctuates to much)
