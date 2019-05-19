@@ -1,4 +1,6 @@
-## Setup Photon 
+## Setup WIFI & Reflash Photon 
+
+If you have to move IOT Device you need to connect to new WIFI
 
 1. Open up Chrome web browser and go to [https://www.particle.io/](https://www.particle.io/)
 1. Login 
