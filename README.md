@@ -5,8 +5,8 @@
 1. Go to [https://docs.particle.io/quickstart/photon/](https://docs.particle.io/quickstart/photon/)_
 1. Click SETUP YOUR PHOTON button
 1. Click PHOTON P/SERIES
-    1. Plug-in wall power (sometimes computer power fluctuates to much)
-    1. Gather your WIFI SSID & Password
+   1. Plug-in wall power (sometimes computer power fluctuates to much)
+   1. Gather your WIFI SSID & Password
 1. Click NEXT
 1. Click CONTINUE WITH LOCAL FILE and allow to download
 1. Go to local file and open with Chrome
@@ -25,5 +25,5 @@ If app isn’t running right or you want to flash new app you need to set photo 
 1. Click on your code file under My Apps
 1. Put Photon in SAFE MODE (Go to [https://docs.particle.io/tutorials/device-os/led/photon/#safe-mode](https://docs.particle.io/tutorials/device-os/led/photon/#safe-mode))
 1. Once in SAFE MODE
-    1. Click DEVICE icon to select correct Photon
-    1. Verify & Flash Code to Photon
+   1. Click DEVICE icon to select correct Photon
+   1. Verify & Flash Code to Photon
