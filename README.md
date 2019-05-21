@@ -3,8 +3,6 @@
 USE LAPTOP OR COMPUTER TO PERFORM BELOW STEPS.
 DO NOT USE MOBILE DEVICES!
 
-If you have to move IOT Device, have issues connecting you need to connect to setup WIFI AGAIN
-
 ## Setup WIFI
 
 1. Open up Chrome web browser and go to [https://www.particle.io/](https://www.particle.io/)
@@ -25,8 +23,6 @@ If you have to move IOT Device, have issues connecting you need to connect to se
 
 USE LAPTOP OR COMPUTER TO PERFORM BELOW STEPS.
 DO NOT USE MOBILE DEVICES!
-
-If app isn’t running right or you want to flash new app you need to set photon into SAFE MODE
 
 1. Open up Chrome web browser and go to [https://www.particle.io/](https://www.particle.io/)
 1. Login
