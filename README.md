@@ -7,7 +7,7 @@ DO NOT USE MOBILE DEVICES!
 
 1. Open up Chrome web browser and go to [https://www.particle.io/](https://www.particle.io/)
 1. Login 
-1. Go to [https://docs.particle.io/quickstart/photon/](https://docs.particle.io/quickstart/photon/)
+1. Go to [setup](http://rvciot.app/start)
 1. Click SETUP YOUR PHOTON button
 1. Click PHOTON P/SERIES
 1. Plug-in photon in wall power (sometimes computer power fluctuates & has to much noise)
