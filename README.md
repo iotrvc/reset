@@ -13,7 +13,7 @@ DO NOT USE MOBILE DEVICES!
 1. Gather your <b>WIFI SSID & Password</b> 
 1. Click <b>NEXT</b>
 1. Click <b>CONTINUE WITH LOCAL FILE</b>, allow to download then open file
-1. Follow Steps to Connect to Photon & Name Device What is Currently is to keep API connections like IFTTT
+1. Follow Steps to Connect to Photon & Keep Device Name the same to keep API connections like IFTTT intact.
 1. When you see Your Photon is good to go! —> Click the <b>WEB IDE</b> link
 
 
