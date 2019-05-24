@@ -8,7 +8,7 @@ DO NOT USE MOBILE DEVICES!
 1. Login to Partciel: Open up Chrome web browser and <a href="https://www.particle.io/" target="blank">Click Here</a>
 1. Setup Photon: <a href="http://rvciot.app/start" target="blank">Click Here</a>
 1. Click <b>SETUP YOUR PHOTON</b> button
-1. Click <b>PHOTON P/SERIES/b>
+1. Click <b>PHOTON P/SERIES</b>
 1. Plug-in photon in wall power (sometimes computer power fluctuates & has to much noise)
 1. Gather your <b>WIFI SSID & Password/b>
 1. Click <b>NEXT/b>
