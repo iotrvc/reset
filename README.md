@@ -4,9 +4,9 @@
 
 These steps must be used when moving device to new WIFI locations
 
-USE LAPTOP OR COMPUTER 
-OPEN CHROME WEB BROWSER
-DO NOT USE MOBILE DEVICES!
+USE LAPTOP OR COMPUTER<br> 
+OPEN CHROME WEB BROWSER<br> 
+DO NOT USE MOBILE DEVICES!<br> 
 
 1. Setup Photon: <a href="http://rvciot.app/start" target="blank">Click Here</a>
 1. Return Here
@@ -23,9 +23,9 @@ DO NOT USE MOBILE DEVICES!
 
 These steps must be used when device is connected to WIFI but unable to be flashed or code is acting up
 
-USE LAPTOP OR COMPUTER 
-OPEN CHROME WEB BROWSER
-DO NOT USE MOBILE DEVICES!
+USE LAPTOP OR COMPUTER<br>  
+OPEN CHROME WEB BROWSER<br> 
+DO NOT USE MOBILE DEVICES!<br> 
 
 1. Login to Partciel: Open up Chrome web browser and <a href="https://www.particle.io/" target="blank">Click Here</a>
 1. Load code and <a href="https://build.particle.io" target="blank">Click Here</a>
