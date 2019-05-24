@@ -1,4 +1,4 @@
-## Setup WIFI & Reset Photon 
+# Setup WIFI & Reset Photon 
 
 ## Setup WIFI
 
@@ -23,7 +23,7 @@ DO NOT USE MOBILE DEVICES!<br>
 
 These steps must be used when device is connected to WIFI but unable to be flashed or code is acting up
 
-USE LAPTOP OR COMPUTER<br>  
+USE LAPTOP OR COMPUTER<br>
 OPEN CHROME WEB BROWSER<br>
 DO NOT USE MOBILE DEVICES!<br> 
 
