@@ -9,8 +9,10 @@ DO NOT USE MOBILE DEVICES!
 1. Setup Photon: <a href="http://rvciot.app/start" target="blank">Click Here</a>
 1. Return Here
 1. Click <b>PHOTON P/SERIES</b>
-   1. Plug-in photon into wall power (sometimes computer power fluctuates & has to much noise)
-   1. Gather your <b>WIFI SSID & Password</b>
+<ul>
+  <li>Plug-in photon into wall power (sometimes computer power fluctuates & has to much noise)/li>
+  <li>Gather your <b>WIFI SSID & Password</b></li>
+</ul>  
 1. Click <b>NEXT</b>
 1. Click <b>CONTINUE WITH LOCAL FILE</b>, allow to download then open file
 1. Follow Steps to Connect to Photon. 
