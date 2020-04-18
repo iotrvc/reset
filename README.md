@@ -24,7 +24,7 @@ DO NOT USE MOBILE DEVICES!<br>
 1. Follow Steps to Connect to Photon & Keep Device Name the same to keep API connections like IFTTT intact.
 1. When you see Your Photon is good to go! —> Click the <b>WEB IDE</b> link
 1. You are now ready to flash with Particle LED Code to test if working and ready
-   *** Go to <a href="https://go.particle.io/shared_apps/5ce7763c9c35ef00058703b9" target="blank">Click Here</a><br>
+   *** Go to <a href="https://go.particle.io/shared_apps/5ce16180ec6e39000ae3f581" target="blank">Click Here</a><br>
    *** Select your Photon Device<br>
    *** Flash. You should see D7 light blink is successful
    *** You are now ready to flash your app when ready
