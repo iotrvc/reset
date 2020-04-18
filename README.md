@@ -33,6 +33,7 @@ DO NOT USE MOBILE DEVICES!<br>
    <br>*** Release only the RESET button, while holding down the SETUP button.
    <br>*** Wait for the LED to start blinking magenta
    <br>*** Release the SETUP button
+<img src="photon.png" width="400"><br>
 1. Once in SAFE MODE (The Photon indicates that it is in Safe Mode with the LED breathing magenta)
 1. Setup Photon: <a href="http://rvciot.app/start" target="blank">Click Here</a>
 1. Click <b>PHOTON P/SERIES</b>
