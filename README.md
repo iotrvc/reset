@@ -27,17 +27,12 @@ USE LAPTOP OR COMPUTER<br>
 OPEN CHROME WEB BROWSER<br>
 DO NOT USE MOBILE DEVICES!<br> 
 
-1. Login to Partciel: Open up Chrome web browser and <a href="https://www.particle.io/" target="blank">Click Here</a>
-1. Load code and <a href="https://build.particle.io" target="blank">Click Here</a>
-1. Click on <b><></b> Icon
-  1. Under Example Apps select <b>"Web-Connected LED"</b>
 1. Plug-in photon in wall power (sometimes computer power fluctuates & has to much noise)
-1. Put Photon in SAFE MODE: <a href="https://docs.particle.io/tutorials/device-os/led/photon/#safe-mode" target="blank">Click Here</a>
+1. Put Photon in SAFE MODE: 
+   <br>*** To put your device in Safe Mode:Hold down BOTH buttons (Reset and Setup) 
+   <br>*** Release only the RESET button, while holding down the SETUP button.
+   <br>*** Wait for the LED to start blinking magenta
+   <br>*** Release the SETUP button
 1. Once in SAFE MODE (The Photon indicates that it is in Safe Mode with the LED breathing magenta)
 1. Click DEVICE icon to select correct Photon
-1. Verify & Flash "Web-Connected LED" Code to Photon 
-1. Go to <a href="https://console.particle.io/devices" target="blank">Console Devices</a>
-1. Select Photon
-1. Go to Function and put in the argument field the words on or off and click CALL
-1. You should see the lights go on and off
 1. Now you are ready to verify & flash your Particle App!
