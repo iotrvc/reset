@@ -34,5 +34,10 @@ DO NOT USE MOBILE DEVICES!<br>
    <br>*** Wait for the LED to start blinking magenta
    <br>*** Release the SETUP button
 1. Once in SAFE MODE (The Photon indicates that it is in Safe Mode with the LED breathing magenta)
-1. Click DEVICE icon to select correct Photon
-1. Now you are ready to verify & flash your Particle App!
+1. Setup Photon: <a href="http://rvciot.app/start" target="blank">Click Here</a>
+1. Click <b>PHOTON P/SERIES</b>
+1. Gather your <b>WIFI SSID & Password</b> 
+1. Click <b>NEXT</b>
+1. Click <b>CONTINUE WITH LOCAL FILE</b>, allow to download then open file
+1. Follow Steps to Connect to Photon & Keep Device Name the same to keep API connections like IFTTT intact.
+1. When you see Your Photon is good to go! —> Click the <b>WEB IDE</b> link
