@@ -17,7 +17,7 @@ DO NOT USE MOBILE DEVICES!<br>
 1. Click <b>CONTINUE WITH LOCAL FILE</b>, allow to download then open file
 1. Follow Steps to Connect to Photon & Keep Device Name the same to keep API connections like IFTTT intact.
 1. When you see Your Photon is good to go! —> Click the <b>WEB IDE</b> link
-1. Confirm Particle App is running correctly. 
+1. You are now reeady to flash with Particle app 
 
 ## Reset Photon
 
@@ -41,3 +41,4 @@ DO NOT USE MOBILE DEVICES!<br>
 1. Click <b>CONTINUE WITH LOCAL FILE</b>, allow to download then open file
 1. Follow Steps to Connect to Photon & Keep Device Name the same to keep API connections like IFTTT intact.
 1. When you see Your Photon is good to go! —> Click the <b>WEB IDE</b> link
+1. You are now reeady to flash with Particle app 
